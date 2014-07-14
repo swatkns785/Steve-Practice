@@ -9,6 +9,4 @@ end
 if response == response.upcase
   puts('NOT SINCE ' + rand(1951).to_s + '!')
 
-  else response == 'BYE BYE BYE'
-  puts 'Goodbye, sweetheart!'
 end
