@@ -1,3 +1,3 @@
 Steve-Practice
 ==============
-Read daer
+This is my practice folder.
